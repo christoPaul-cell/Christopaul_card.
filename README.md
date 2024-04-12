@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/christoPaul-cell/Christopaul_card./blob/master/Gif%20(1).gif" width=200><br>
+<img src="christo.gif" width=200><br>
 
 
 ## Required
